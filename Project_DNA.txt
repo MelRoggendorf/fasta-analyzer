@@ -1,0 +1,10 @@
+Your team has received a FASTA file containing DNA sequences from a sequencing experiment.
+
+The goal is to collaboratively build a python Project/script that:
+
+Reads the FASTA files from NCBI or similar databases
+Counts sequences
+Calculates sequence lengths
+Calculates GC content
+Flags sequences shorter than a threshold
+Produces a summary PDF report
